@@ -1,0 +1,9 @@
+[30-Apr-2021 11:24:06 Europe/Berlin] PHP Fatal error:  Call to a member function prepare() on null in C:\xampp\htdocs\projects\ci\application\views\setting\profile.php on line 762
+[30-Apr-2021 11:24:06 Europe/Berlin] PHP Fatal error:  Call to a member function prepare() on null in C:\xampp\htdocs\projects\ci\application\views\setting\profile.php on line 762
+[30-Apr-2021 11:26:20 Europe/Berlin] PHP Fatal error:  Call to a member function prepare() on null in C:\xampp\htdocs\projects\ci\application\views\setting\profile.php on line 762
+[30-Apr-2021 11:32:35 Europe/Berlin] PHP Fatal error:  Call to a member function prepare() on null in C:\xampp\htdocs\projects\ci\application\views\setting\profile.php on line 761
+[30-Apr-2021 11:34:24 Europe/Berlin] PHP Fatal error:  Call to a member function prepare() on null in C:\xampp\htdocs\projects\ci\application\views\setting\profile.php on line 762
+[19-May-2021 10:05:14 Europe/Berlin] PHP Fatal error:  Call to a member function prepare() on null in C:\xampp\htdocs\projects\BBMCurrency\application\views\setting\bank.php on line 417
+[19-May-2021 10:08:56 Europe/Berlin] PHP Fatal error:  Call to a member function prepare() on null in C:\xampp\htdocs\projects\BBMCurrency\application\views\setting\bank.php on line 501
+[19-May-2021 10:09:18 Europe/Berlin] PHP Fatal error:  Call to a member function prepare() on null in C:\xampp\htdocs\projects\BBMCurrency\application\views\setting\bank.php on line 501
+[19-May-2021 10:09:48 Europe/Berlin] PHP Fatal error:  Call to a member function prepare() on null in C:\xampp\htdocs\projects\BBMCurrency\application\views\setting\bank.php on line 501

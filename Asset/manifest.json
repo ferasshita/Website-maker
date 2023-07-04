@@ -1,0 +1,32 @@
+{
+    "theme_color": "#1d2741",
+    "background_color": "#1d2741",
+    "display": "fullscreen",
+    "scope": "/",
+    "start_url": "https://alsaraf.ly",
+    "name": "Alsaraf currency management system",
+    "short_name": "Alsaraf",
+    "description": "Alsaraf currency exchange POS. from here you can control your currency exchange by easy way from any where by Alsaraf currency exchange",
+    "icons": [
+        {
+            "src": "icon-192x192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "icon-256x256.png",
+            "sizes": "256x256",
+            "type": "image/png"
+        },
+        {
+            "src": "icon-384x384.png",
+            "sizes": "384x384",
+            "type": "image/png"
+        },
+        {
+            "src": "icon-512x512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ]
+}
